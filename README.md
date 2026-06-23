@@ -1,4 +1,4 @@
-# NYCU_Intro2ML
+# Intro2ML@NYCU
 Course: Introduction to Machine Learning 2024 spring @ National Yang Ming Chiao Tung University
 
 Lectured by Prof. Sheng-Jyh, Wang
